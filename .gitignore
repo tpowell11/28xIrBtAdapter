@@ -1,4 +1,4 @@
 *.zip
 *.lck
-*.prl
+*.kicad_prl
 iradapter-backups/

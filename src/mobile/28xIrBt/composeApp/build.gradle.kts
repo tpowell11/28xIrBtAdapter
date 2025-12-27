@@ -43,6 +43,7 @@ kotlin {
             implementation(libs.androidx.lifecycle.viewmodelCompose)
             implementation(libs.androidx.lifecycle.runtimeCompose)
             implementation(libs.kable)
+            implementation(libs.androidx.navigation)
         }
         commonTest.dependencies {
             implementation(libs.kotlin.test)

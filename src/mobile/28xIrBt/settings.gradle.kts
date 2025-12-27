@@ -11,6 +11,9 @@ pluginManagement {
             }
         }
         mavenCentral()
+        maven {
+            url = uri("")
+        }
         gradlePluginPortal()
     }
 }
